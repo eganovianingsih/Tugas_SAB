@@ -1,0 +1,2 @@
+include ':app', ':Application'
+rootProject.name='From Data'
